@@ -1,0 +1,10 @@
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.login{
+    width: 60vw !important;
+    height: auto !important;
+    box-shadow: 1px 2px 3px rgba(110, 108, 108, 0.541),
+                -1px -2px 3px rgba(110, 108, 108, 0.541) !important;
+}
